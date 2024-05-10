@@ -1,0 +1,35 @@
+.content-heading{
+    text-align: center;
+    font-size: 12px;
+    height: 60px;
+    padding-top: 20px;
+}
+
+.content{
+    text-align: center;
+}
+
+.attendance{
+    display: flex;
+    justify-content: center;
+}
+
+.rest{
+    display: flex;
+    justify-content: center;
+}
+
+form {
+    margin: 15px;
+    cursor: pointer;
+}
+
+input {
+    width: 400px;
+    height: 180px;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: #fff;
+    border-radius: 3px;
+    border: none;
+}
