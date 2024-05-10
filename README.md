@@ -7,6 +7,8 @@
 勤怠管理を円滑にするため
 
 ##URL
+開発環境　http://localhost/
+phpMyAdmin http://localhost:8080/
 
 ##他のリポジトリ
 
